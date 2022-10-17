@@ -15,6 +15,11 @@ $ git clone https://github.com/underxploit/Autov
 $ cd Autov
 $ php auto.php
 </pre>
-<h1>Links</h1>
+#Links
 
 [Subscribe here ](https://ramanand.ml)
+
+<pre>
+pkg install php
+php autov.php
+</pre>
