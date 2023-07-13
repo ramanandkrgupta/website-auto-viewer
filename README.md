@@ -12,14 +12,14 @@
 $ apt update && apt upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/underxploit/Autov
-$ cd Autov
+$ git clone [https://github.com/ramanandkrgupta](https://github.com/ramanandkrgupta/website-auto-viewer/
+$ cd website-auto-viewer
 $ php auto.php
 </pre>
 
 
 # Links
 
-[Subscribe here ](https://ramanand.ml)
+[Subscribe here ]()
  ## Screenshots 
 ### Coming soon
